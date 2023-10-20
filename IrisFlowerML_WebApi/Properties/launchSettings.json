@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "IrisFlowerML_WebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:12091;http://localhost:12092"
+    }
+  }
+}
